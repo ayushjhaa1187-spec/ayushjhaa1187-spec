@@ -30,7 +30,7 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
       <img src="https://img.shields.io/badge/15%2B-AI%2FML-ff006e?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="AI Projects" />
     </td>
     <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/5%2B-Hackathon-ffd60a?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="Hackathons" />
+      <img src="https://img.shields.io/badge/2%2B-Hackathon-ffd60a?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="Hackathons" />
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/10%2B-Tech%20Stack-00d9ff?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="Tech" />
@@ -47,17 +47,17 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 #### ⭐ **Multi-Agent Document Generator** 
 🟦 TypeScript • 🤖 LLM • 🔄 Multi-Agent
 > Enterprise AI producing BRDs, SOPs & technical specs from natural language prompts
-- [🔗 Repository](https://github.com/ayushjhaa1187-spec/-Multi-Agent-Document-Generator) | [🌐 Live Demo](#)
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/-Multi-Agent-Document-Generator)
 
 #### ⭐ **DriveLegal - AI Traffic Intelligence**
 🟦 TypeScript • 🤖 LLM • 📍 Geolocation  
 > Location-specific traffic law chatbot with real-time fine schedules & compliance
-- [🔗 Repository](https://github.com/ayushjhaa1187-spec/DriveLegal) | [🌐 Live Demo](#)
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/DriveLegal)
 
 #### ⭐ **Voice Assistant JUNE**
 🐍 Python • 🎙️ Voice • 🤖 AI
 > Desktop AI with voice orchestration, task automation & intelligent scheduling
-- [🔗 Repository](https://github.com/ayushjhaa1187-spec/Voice-Assistant) | [🌐 Live Demo](#)
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/Voice-Assistant)
 
 #### **Pharmacy AI Agent**
 🟦 TypeScript • 🤖 AI • 📦 IoT
@@ -190,23 +190,25 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 
 ---
 
-## 🚀 Specializations
-
-| 🤖 **Multi-Agent Systems** | 💻 **Full-Stack Engineering** | 📊 **Data Intelligence** | ⚡ **Hackathon Shipping** |
-|:---:|:---:|:---:|:---:|
-| Orchestrating complex AI agents for production automation | End-to-end systems from backend APIs to interactive frontends | Analytics, forecasting & business intelligence solutions | Fast-track product development & market-ready MVPs |
-
----
-
 ## 📈 GitHub Activity
 
 <div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushjhaa1187-spec&show_icons=true&theme=dark&bg_color=0a0e27&title_color=00ffff&icon_color=ff006e&border_color=00ffff&border_radius=10&hide_border=false)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushjhaa1187-spec&theme=dark&background=0a0e27&border=00ffff&stroke=ff006e)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjhaa1187-spec&layout=compact&theme=dark&bg_color=0a0e27&text_color=00ffff&border_color=ff006e&border_radius=10)
 
 </div>
+
+---
+
+## 🚀 Specializations
+
+| 🤖 **Multi-Agent Systems** | 💻 **Full-Stack Engineering** | 📊 **Data Intelligence** | ⚡ **Hackathon Shipping** |
+|:---:|:---:|:---:|:---:|
+| Orchestrating complex AI agents for production automation | End-to-end systems from backend APIs to interactive frontends | Analytics, forecasting & business intelligence solutions | Fast-track product development & market-ready MVPs |
 
 ---
 
@@ -230,9 +232,9 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 ### 🌐 **Connect With Me**
 
 [![GitHub](https://img.shields.io/badge/GitHub-ayushjhaa1187--spec-00ffff?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushjhaa1187-spec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Jhaa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-jhaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Kumar_Jha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-jha-5960a3362/)
 [![Email](https://img.shields.io/badge/Email-ayushjhaa1187%40gmail.com-ff006e?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushjhaa1187@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-ffd60a?style=flat-square&logo=vercel&logoColor=white)](https://github.com/ayushjhaa1187-spec/Portfoilo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ffd60a?style=flat-square&logo=vercel&logoColor=white)](https://github.com/ayushjhaa1187-spec/Portfoilo)
 
 </div>
 
@@ -293,6 +295,8 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 Every contribution fuels innovation forward! 🙌
 
 ---
+
+![Contribution Snake](https://raw.githubusercontent.com/ayushjhaa1187-spec/ayushjhaa1187-spec/output/github-contribution-grid-snake-dark.svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushjhaa1187-spec&color=00ffff&label=Profile%20Visitors&style=flat-square)
 
