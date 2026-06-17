@@ -59,6 +59,11 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 > Desktop AI with voice orchestration, task automation & intelligent scheduling
 - [🔗 Repository](https://github.com/ayushjhaa1187-spec/Voice-Assistant)
 
+#### **Exoplanet Detection - ML Classifier**
+🐍 Python • 🔬 ML • 📊 Astronomy
+> Machine learning model for exoplanet classification using astronomical data
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/exoplanet-detection)
+
 #### **Pharmacy AI Agent**
 🟦 TypeScript • 🤖 AI • 📦 IoT
 > Autonomous inventory management with predictive expiry & optimization
@@ -68,6 +73,11 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 🟦 TypeScript • 📚 RAG • 🔍 Vector DB
 > RAG-powered email analysis with BRD generation & pattern discovery
 - [🔗 Repository](https://github.com/ayushjhaa1187-spec/enron-insights)
+
+#### **LLM Workflow Automation**
+🐍 Python • 🤖 LLM • 🔄 Automation
+> Production LLM implementation for automating complex workflow orchestration
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/LLM_PEXPERIMENT)
 
 ---
 
@@ -234,7 +244,7 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 [![GitHub](https://img.shields.io/badge/GitHub-ayushjhaa1187--spec-00ffff?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushjhaa1187-spec)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Kumar_Jha-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kumar-jha-5960a3362/)
 [![Email](https://img.shields.io/badge/Email-ayushjhaa1187%40gmail.com-ff006e?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushjhaa1187@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ffd60a?style=flat-square&logo=vercel&logoColor=white)](https://github.com/ayushjhaa1187-spec/Portfoilo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-ffd60a?style=flat-square&logo=vercel&logoColor=white)](https://github.com/ayushjhaa1187-spec/Portfolio)
 
 </div>
 
@@ -260,7 +270,7 @@ Hey! I'm Ayush — building intelligent systems that solve real problems. By day
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────┐
+┌───────────────────────────────────────���──────────┐
 │  Got an idea? Let's build it together.           │
 │                                                  │
 │  → ayushjhaa1187@gmail.com                       │
