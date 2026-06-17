@@ -1,226 +1,116 @@
 <div align="center">
 
 # 🚀 Ayush Jhaa
-## *Crafting Intelligent Systems in 2026*
 
-[![GitHub followers](https://img.shields.io/github/followers/ayushjhaa1187-spec?style=flat-square&logo=github&logoColor=white&color=0ff&labelColor=1a1a2e)](https://github.com/ayushjhaa1187-spec)
-[![GitHub stars](https://img.shields.io/github/stars/ayushjhaa1187-spec?style=flat-square&logo=github&logoColor=white&color=0ff&labelColor=1a1a2e)](https://github.com/ayushjhaa1187-spec)
-[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-00ff00?style=flat-square&logo=vercel&logoColor=white)](https://github.com/ayushjhaa1187-spec/Portfoilo)
+**Full-Stack Engineer | AI Systems Architect | Hackathon Alchemist**
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║        🤖 AI • 🚀 Full-Stack • 💻 System Design               ║
-║  Building Enterprise Solutions & AI-Powered Intelligence      ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
+Hey! I'm Ayush — building intelligent systems that solve real problems. By day, I architect AI agents and full-stack solutions. By night, I ship hackathon winners. Let's create something extraordinary together.
 
 ---
 
-## 🎯 Impact Dashboard
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=./ayush+--mode%3A+builder+--focus%3A+AI%2BWeb3;%24+shipping_fast+🚀;Building+tomorrow's+intelligence;Full-Stack+Developer;AI+Systems+Architect;Hackathon+Winner)](https://github.com/ayushjhaa1187-spec)
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  Building AI-Powered Solutions That Scale                 ║
+║  One Commit • One Hack • One Breakthrough at a Time        ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 📊 Impact Metrics
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/50+-Projects-0ff?style=for-the-badge&labelColor=1a1a2e&logo=github" />
-      <br/>
-      <sub><b>Total Projects</b></sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/50%2B-Projects-00ffff?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="Projects" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/15+-AI/ML-ff006e?style=for-the-badge&labelColor=1a1a2e&logo=python" />
-      <br/>
-      <sub><b>AI Systems</b></sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/15%2B-AI%2FML-ff006e?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="AI Projects" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/5+-Hackathon-ffd60a?style=for-the-badge&labelColor=1a1a2e&logo=google" />
-      <br/>
-      <sub><b>Wins</b></sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/5%2B-Hackathon-ffd60a?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="Hackathons" />
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/10+-Tech_Stack-00f0ff?style=for-the-badge&labelColor=1a1a2e&logo=typescript" />
-      <br/>
-      <sub><b>Technologies</b></sub>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/10%2B-Tech%20Stack-00d9ff?style=for-the-badge&labelColor=0a0e27&logoColor=white" alt="Tech" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌟 Flagship Projects
+## 🌟 Featured Projects
 
 ### 🤖 **AI & Autonomous Systems**
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🧠 Multi-Agent Document Generator</h4>
-      <p>Enterprise AI producing BRDs, SOPs & technical specs from prompts</p>
-      <code>TypeScript • LLM • Multi-Agent</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/-Multi-Agent-Document-Generator">→ Explore</a>
-    </td>
-    <td width="50%">
-      <h4>⚖️ DriveLegal</h4>
-      <p>AI-powered traffic law intelligence with real-time compliance</p>
-      <code>TypeScript • LLM • Geolocation</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/DriveLegal">→ Explore</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🎙️ Voice Assistant JUNE</h4>
-      <p>Desktop AI assistant with voice orchestration & task automation</p>
-      <code>Python • Voice • AI</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Voice-Assistant">→ Explore</a>
-    </td>
-    <td>
-      <h4>💊 Pharmacy AI Agent</h4>
-      <p>Autonomous inventory management & expiry prediction</p>
-      <code>TypeScript • AI • IoT</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Agent">→ Explore</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h4>📧 Enron Insights - Forensic Email Intelligence</h4>
-      <p>RAG-powered email analysis platform with BRD generation</p>
-      <code>TypeScript • RAG • Vector DB</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/enron-insights">→ Explore</a>
-    </td>
-  </tr>
-</table>
+#### ⭐ **Multi-Agent Document Generator** 
+🟦 TypeScript • 🤖 LLM • 🔄 Multi-Agent
+> Enterprise AI producing BRDs, SOPs & technical specs from natural language prompts
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/-Multi-Agent-Document-Generator) | [🌐 Live Demo](#)
+
+#### ⭐ **DriveLegal - AI Traffic Intelligence**
+🟦 TypeScript • 🤖 LLM • 📍 Geolocation  
+> Location-specific traffic law chatbot with real-time fine schedules & compliance
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/DriveLegal) | [🌐 Live Demo](#)
+
+#### ⭐ **Voice Assistant JUNE**
+🐍 Python • 🎙️ Voice • 🤖 AI
+> Desktop AI with voice orchestration, task automation & intelligent scheduling
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/Voice-Assistant) | [🌐 Live Demo](#)
+
+#### **Pharmacy AI Agent**
+🟦 TypeScript • 🤖 AI • 📦 IoT
+> Autonomous inventory management with predictive expiry & optimization
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/Agent)
+
+#### **Enron Insights - Forensic Email Intelligence**
+🟦 TypeScript • 📚 RAG • 🔍 Vector DB
+> RAG-powered email analysis with BRD generation & pattern discovery
+- [🔗 Repository](https://github.com/ayushjhaa1187-spec/enron-insights)
+
+---
 
 ### 💼 **Enterprise Intelligence**
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>⚡ Risk-Radar</h4>
-      <p>Real-time threat detection & risk assessment dashboard</p>
-      <code>JavaScript • Analytics • ML</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Risk-Radar">→ Explore</a>
-    </td>
-    <td width="50%">
-      <h4>🧵 Insight-Weaver</h4>
-      <p>Multi-source analytics with AI-powered business intelligence</p>
-      <code>TypeScript • AI • BI</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/insight-weaver">→ Explore</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>📊 Campus Outcomes MVP</h4>
-      <p>Placement analytics & NIRF ranking automation platform</p>
-      <code>JavaScript • Data Analytics</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/campus-outcomes-mvp">→ Explore</a>
-    </td>
-    <td>
-      <h4>🤝 Meeting Insights</h4>
-      <p>AI meeting intelligence with transcription & action extraction</p>
-      <code>TypeScript • React • AI</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/meeting-insights-weaver">→ Explore</a>
-    </td>
-  </tr>
-</table>
+| Project | Stack | Description | Links |
+|---------|-------|-------------|-------|
+| **⚡ Risk-Radar** | 🟨 JavaScript • 📊 Analytics | Real-time threat detection & risk assessment | [Repo](https://github.com/ayushjhaa1187-spec/Risk-Radar) |
+| **🧵 Insight-Weaver** | 🟦 TypeScript • 🤖 AI | Multi-source analytics with business intelligence | [Repo](https://github.com/ayushjhaa1187-spec/insight-weaver) |
+| **📊 Campus Outcomes MVP** | 🟨 JavaScript • 📈 Analytics | Placement tracking & NIRF automation platform | [Repo](https://github.com/ayushjhaa1187-spec/campus-outcomes-mvp) |
+| **🤝 Meeting Insights** | 🟦 TypeScript • ⚛️ React | AI meeting intelligence with action extraction | [Repo](https://github.com/ayushjhaa1187-spec/meeting-insights-weaver) |
+
+---
 
 ### 🛒 **E-Commerce & Inventory**
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>📦 StockSense Hub</h4>
-      <p>Pharmacy inventory with predictive expiry & AI optimization</p>
-      <code>TypeScript • Dashboard • ML</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/stocksense-hub">→ Explore</a>
-    </td>
-    <td width="50%">
-      <h4>🎯 Category Intelligence</h4>
-      <p>AI product classification engine for e-commerce analytics</p>
-      <code>AI/ML • NLP • Classification</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Category-Intelligence">→ Explore</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>📈 Demand-Graph</h4>
-      <p>Demand forecasting with interactive visualizations</p>
-      <code>JavaScript • D3.js • Forecasting</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Demand-Graph">→ Explore</a>
-    </td>
-    <td>
-      <h4>🔄 Catalog-Sync</h4>
-      <p>Multi-platform product synchronization engine</p>
-      <code>Multi-Stack • APIs • Integration</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Catalog-Sync">→ Explore</a>
-    </td>
-  </tr>
-</table>
+| Project | Stack | Description | Links |
+|---------|-------|-------------|-------|
+| **📦 StockSense Hub** | 🟦 TypeScript • 📊 Dashboard | Pharmacy inventory with predictive expiry & optimization | [Repo](https://github.com/ayushjhaa1187-spec/stocksense-hub) |
+| **🎯 Category Intelligence** | 🤖 AI/ML • 📝 NLP | AI product classification for e-commerce | [Repo](https://github.com/ayushjhaa1187-spec/Category-Intelligence) |
+| **📈 Demand-Graph** | 🟨 JavaScript • 📊 D3.js | Interactive demand forecasting visualizations | [Repo](https://github.com/ayushjhaa1187-spec/Demand-Graph) |
+| **🔄 Catalog-Sync** | 🔗 Multi-Stack • APIs | Multi-platform product synchronization engine | [Repo](https://github.com/ayushjhaa1187-spec/Catalog-Sync) |
 
-### 🏆 **Hackathon Wins & Educational**
+---
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🏛️ Hostel Hub - HackOverflow 2026 🥇</h4>
-      <p>Smart facility management & maintenance tracking</p>
-      <code>JavaScript • Full-Stack • Winner</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/hostel-issue-tracking-system">→ Explore</a>
-    </td>
-    <td width="50%">
-      <h4>🔗 Smart Link Hub - Advitiya 🥇</h4>
-      <p>Intelligent link management with rule-based automation</p>
-      <code>JavaScript • Hackathon Winner</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Advitiya-x-JPD-Hub-Hackathon-26">→ Explore</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>🚗 RoadSoS</h4>
-      <p>Emergency response & road safety platform</p>
-      <code>JavaScript • Safety • IoT</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/RoadSoS">→ Explore</a>
-    </td>
-    <td>
-      <h4>🌾 Agri Reform Vision</h4>
-      <p>Agricultural innovation & reform platform</p>
-      <code>Web • Sustainability</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/agri_reform_vision">→ Explore</a>
-    </td>
-  </tr>
-</table>
+### 🏆 **Hackathon Wins & Impact Projects**
 
-### 🎨 **Frontend & Modern UI**
+| Project | Status | Stack | Description | Links |
+|---------|--------|-------|-------------|-------|
+| **🏛️ Hostel Hub** | 🥇 Winner | 🟨 JavaScript | Smart facility management (HackOverflow 2026) | [Repo](https://github.com/ayushjhaa1187-spec/hostel-issue-tracking-system) |
+| **🔗 Smart Link Hub** | 🥇 Winner | 🟨 JavaScript | Intelligent link management (Advitiya) | [Repo](https://github.com/ayushjhaa1187-spec/Advitiya-x-JPD-Hub-Hackathon-26) |
+| **🚗 RoadSoS** | ✅ Active | 🟨 JavaScript | Emergency response & road safety | [Repo](https://github.com/ayushjhaa1187-spec/RoadSoS) |
+| **🌾 Agri Reform** | ✅ Active | 🌐 Web | Agricultural innovation platform | [Repo](https://github.com/ayushjhaa1187-spec/agri_reform_vision) |
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>✨ Frontend Odyssey</h4>
-      <p>Immersive interactive web experience with storytelling</p>
-      <code>JavaScript • WebGL • UX</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Frontend-Odyssey-The-Interactive-Web-Experience">→ Explore</a>
-    </td>
-    <td width="50%">
-      <h4>🔐 Sign-Up Enhancer</h4>
-      <p>Modern auth UI with Supabase & OAuth</p>
-      <code>TypeScript • React • Auth</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/sign-up-enhancer">→ Explore</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>💻 Vibe Coding Platform</h4>
-      <p>Interactive coding & collaborative development environment</p>
-      <code>TypeScript • Real-time • Collab</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/vibe-coding-platform">→ Explore</a>
-    </td>
-    <td>
-      <h4>💪 Fitness Nexas</h4>
-      <p>Health tracking & fitness management platform</p>
-      <code>JavaScript • Health • Analytics</code><br/>
-      <a href="https://github.com/ayushjhaa1187-spec/Fitness_nexas">→ Explore</a>
-    </td>
-  </tr>
-</table>
+---
+
+### 🎨 **Modern Frontend & UI**
+
+| Project | Stack | Description | Links |
+|---------|-------|-------------|-------|
+| **✨ Frontend Odyssey** | 🟨 JavaScript • WebGL | Immersive interactive storytelling experience | [Repo](https://github.com/ayushjhaa1187-spec/Frontend-Odyssey-The-Interactive-Web-Experience) |
+| **🔐 Sign-Up Enhancer** | 🟦 TypeScript • ⚛️ React | Modern auth UI with Supabase & OAuth | [Repo](https://github.com/ayushjhaa1187-spec/sign-up-enhancer) |
+| **💻 Vibe Coding Platform** | 🟦 TypeScript • Real-time | Interactive collaborative development environment | [Repo](https://github.com/ayushjhaa1187-spec/vibe-coding-platform) |
 
 ---
 
@@ -228,50 +118,66 @@
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    TECH LANDSCAPE 2026                  │
-└─────────────────────────────────────────────────────────┘
-```
+### **Primary Skills**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### **Languages**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML_CSS-E34C26?style=flat-square&logo=html5&logoColor=white)
+**React ████████░░ Expert** | **TypeScript ████████░░ Expert** | **Python ███████░░░ Advanced**
 
-### **Frontend & UI**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
+---
+
+### **Frontend Ecosystem**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+**Next.js ███████░░░ Advanced** | **Tailwind ████████░░ Expert**
+
+---
 
 ### **Backend & Infrastructure**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### **AI & ML**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF006E?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG_Systems-00D9FF?style=flat-square)
-![Vector_DB](https://img.shields.io/badge/Vector_DB-0ff?style=flat-square)
+**Node.js ████████░░ Expert** | **PostgreSQL ███████░░░ Advanced**
+
+---
+
+### **AI & ML Stack**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF006E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge)
+![VectorDB](https://img.shields.io/badge/Vector_DB-00ffff?style=for-the-badge)
+
+**LLMs ████████░░ Advanced** | **RAG Systems ███████░░░ Proficient**
+
+---
 
 ### **DevOps & Tools**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📚 **Currently Learning**
+![Quantum](https://img.shields.io/badge/Quantum_Computing-purple?style=flat-square)
+![LLMFineTune](https://img.shields.io/badge/LLM_Fine--Tuning-ff006e?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3_Integration-ffd60a?style=flat-square)
 
 </div>
 
 ---
 
-## 📊 Project Landscape
+## 📊 Project Distribution
 
 ```
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃           PORTFOLIO DISTRIBUTION (2026)           ┃
+┃         PORTFOLIO LANDSCAPE (50+ Projects)        ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🤖 AI & Autonomous Systems        ████████░░ 15+ ┃
 ┃ 💼 Enterprise Intelligence         ████████░░ 12+ ┃
@@ -286,93 +192,86 @@
 
 ## 🚀 Specializations
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-Multi%20Agent%20Systems-FF006E?style=flat&logoColor=white" />
-      <p><sub>Orchestrating complex AI agents for real-world automation</sub></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-Full%20Stack%20Dev-00D9FF?style=flat&logoColor=white" />
-      <p><sub>End-to-end systems from APIs to interactive UIs</sub></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-Data%20Intelligence-FFA500?style=flat&logoColor=white" />
-      <p><sub>Analytics, forecasting & business intelligence</sub></p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/-Hackathon%20Shipping-FBBF24?style=flat&logoColor=white" />
-      <p><sub>Fast-track product development & MVPs</sub></p>
-    </td>
-  </tr>
-</table>
+| 🤖 **Multi-Agent Systems** | 💻 **Full-Stack Engineering** | 📊 **Data Intelligence** | ⚡ **Hackathon Shipping** |
+|:---:|:---:|:---:|:---:|
+| Orchestrating complex AI agents for production automation | End-to-end systems from backend APIs to interactive frontends | Analytics, forecasting & business intelligence solutions | Fast-track product development & market-ready MVPs |
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushjhaa1187-spec&theme=dark&background=0a0e27&border=00ffff&stroke=ff006e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjhaa1187-spec&layout=compact&theme=dark&bg_color=0a0e27&text_color=00ffff&border_color=ff006e&border_radius=10)
+
+</div>
 
 ---
 
 ## 🏆 Achievements & Recognition
 
+| 🥇 | **HackOverflow 2026 Winner** | Hostel Hub - Smart Facility Management System |
+|:---:|:---|---|
+| 🥇 | **Advitiya Hackathon Winner** | Smart Link Hub - Intelligent Link Management |
+| 🚀 | **50+ Active Projects** | Diverse portfolio spanning AI to modern UI |
+| 💡 | **15+ Production AI Systems** | Real-world intelligent solutions in production |
+| 🌟 | **Multi-Agent Architecture** | Complex autonomous workflow orchestration |
+| 📊 | **Enterprise Scale** | Built systems handling real business problems |
+| 🎓 | **IIT Madras Affiliation** | Rigorous technical foundation & innovation mindset |
+
+---
+
+## 💬 Let's Build Together
+
 <div align="center">
 
-| Achievement | Details |
-|---|---|
-| 🥇 **HackOverflow 2026 Winner** | Hostel Hub - Smart Facility Management |
-| 🥇 **Advitiya Hackathon Winner** | Smart Link Hub - Intelligent Link Management |
-| 🚀 **50+ Active Projects** | Diverse portfolio spanning AI to UI |
-| 💡 **15+ AI/ML Systems** | Production-ready intelligent solutions |
-| 🌟 **Multi-Agent Architecture** | Orchestrating complex autonomous workflows |
-| 📊 **Enterprise Scale** | Built systems handling real business problems |
+### 🌐 **Connect With Me**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ayushjhaa1187--spec-00ffff?style=flat-square&logo=github&logoColor=white)](https://github.com/ayushjhaa1187-spec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Jhaa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-jhaa)
+[![Email](https://img.shields.io/badge/Email-ayushjhaa1187%40gmail.com-ff006e?style=flat-square&logo=gmail&logoColor=white)](mailto:ayushjhaa1187@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demo-ffd60a?style=flat-square&logo=vercel&logoColor=white)](https://github.com/ayushjhaa1187-spec/Portfoilo)
 
 </div>
 
 ---
 
-## 💬 Connect & Collaborate
-
-<div align="center">
-
-### 🌐 Online Presence
-
-[![GitHub](https://img.shields.io/badge/GitHub-ayushjhaa1187_spec-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/ayushjhaa1187-spec)](https://github.com/ayushjhaa1187-spec)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Demo-0055FF?style=flat-square&logo=vercel&logoColor=white)](https://github.com/ayushjhaa1187-spec/Portfoilo)
-[![Email](https://img.shields.io/badge/Email-Let%27s%20Talk-FF006E?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-### 💼 Open To
-
-- 🤝 **Collaboration** - Join forces on innovative projects
-- 🎯 **Freelance** - Build custom solutions tailored to your needs
-- 📖 **Mentorship** - Share knowledge & grow together
-- 🚀 **Startups** - Scale your vision with proven expertise
-
-</div>
-
----
-
-## 📈 Current Focus
+## 🎯 Current Focus
 
 ```
-╔════════════════════════════════════════════════════╗
-║              2026 DEVELOPMENT ROADMAP              ║
-╠════════════════════════════════════════════════════╣
-║ 🔨 Advanced LLM Fine-tuning & Agent Orchestration ║
-║ 🔨 Enterprise-Scale Data Pipelines                ║
-║ 🔨 Real-time Analytics & Streaming Platforms      ║
-║ 🔨 Blockchain & Web3 Integration                  ║
-║ 📚 Learning: Quantum Computing Fundamentals       ║
-╚════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════╗
+║               🚀 2026 DEVELOPMENT ROADMAP 🚀              ║
+╠════════════════════════════════════════════════════════════╣
+║ 🔨 Advanced LLM Fine-tuning & Agent Orchestration         ║
+║ 🔨 Enterprise-Scale Real-time Data Pipelines              ║
+║ 🔨 Web3 Integration & Decentralized Applications          ║
+║ 📚 Quantum Computing Fundamentals & Edge AI               ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🎁 Resources & Insights
+## 🤝 Open To Collaboration
 
 <div align="center">
 
-**Latest Blog Topics Coming Soon:**
-- Building Production-Ready AI Systems
-- Full-Stack Architecture Patterns 2026
-- Scaling Multi-Agent Systems
-- Enterprise Data Intelligence
-- Hackathon Fast-Shipping Strategies
+```
+┌──────────────────────────────────────────────────┐
+│  Got an idea? Let's build it together.           │
+│                                                  │
+│  → ayushjhaa1187@gmail.com                       │
+│  → Open to freelance, startups & partnerships    │
+│  → Mentorship & knowledge sharing welcome        │
+└──────────────────────────────────────────────────┘
+```
+
+**💼 Available for:**
+- 🤝 Collaboration on innovative projects
+- 🎯 Freelance & consulting engagements
+- 📖 Technical mentorship & guidance
+- 🚀 Startup scaling with proven expertise
 
 </div>
 
@@ -380,25 +279,27 @@
 
 ## ⭐ Support This Journey
 
+<div align="center">
+
+**If you find value in my work:**
+
 ```
-If you find value in my work:
-  
-  → ⭐ Star the repositories you love
-  → 🔄 Fork & contribute to projects
-  → 📢 Share with your network
-  → 💬 Provide feedback & suggestions
+  💫 Star the repositories you love
+  🔄 Fork & contribute to projects  
+  📢 Share with your network
+  💬 Provide feedback & suggestions
 ```
+
+Every contribution fuels innovation forward! 🙌
 
 ---
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=ayushjhaa1187-spec&color=00ffff&label=Profile%20Visitors&style=flat-square)
 
-<img src="https://img.shields.io/badge/Made%20with-❤️%20Code-FF006E?style=flat-square" />
+**Made with ❤️ Passion & Code**
 
-**Crafted with passion for innovation**
+*Transforming Ideas Into Intelligent Reality* ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushjhaa1187-spec&color=0ff&style=flat-square)
-
-*Last Updated: 2026* 🚀
+**Let's create something extraordinary in 2026** 🚀
 
 </div>
