@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Ayush kumar jha
+# Mr. Ayush kumar Jha
 
 **Full-Stack Engineer | AI Systems Architect | Hackathon Alchemist**
 
