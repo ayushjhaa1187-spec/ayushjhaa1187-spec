@@ -2,7 +2,7 @@
 
 # Mr. Ayush kumar Jha
 
-**Full-Stack Engineer Vibe Ai | AI Systems Architect | Hackathon Alchemist**
+**Vibe Ai coder | AI Systems Architect | Hackathon Alchemist**
 
 Hey! I'm Ayush — building intelligent systems that solve real problems. By day, I architect AI agents and full-stack solutions. By night, I ship hackathon winners. Let's create something extraordinary together.
 
