@@ -308,7 +308,7 @@ Every contribution fuels innovation forward! 🙌
 
 ![Contribution Snake](https://raw.githubusercontent.com/ayushjhaa1187-spec/ayushjhaa1187-spec/output/github-contribution-grid-snake-dark.svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayushjhaa1187-spec&color=00ffff&label=Profile%20Visitors&style=flat-square)
+![Profile Views](linkedin.com/in/ayush-kumar-jha-5960a3362)
 
 **Made with ❤️ Passion & Code**
 
